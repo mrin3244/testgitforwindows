@@ -1,0 +1,7 @@
+1. open git bus
+2. go to the folder use cd
+3. check status "git status"
+4. add new file "git add filename"
+5. add all file "git add ."
+6. commit the git 'git commit -m "your msg" '
+7. git push "git push -u origin master"
